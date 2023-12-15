@@ -1,0 +1,7 @@
+# DO NOT STORE SAMPLE DATA FROM THE SimpleFakeDataUtility PROJECT
+# Why? Github (aka Microsoft) may flag this repository for containing PII
+./data/*.csv
+./data/*.db
+
+# The IRS owns that form and they may not like us sharing it
+./forms/*
