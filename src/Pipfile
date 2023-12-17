@@ -11,6 +11,7 @@ sqlalchemy = "*"
 ipython = "*"
 python-dateutil = "*"
 tabulate = "*"
+matplotlib = "*"
 
 [dev-packages]
 
