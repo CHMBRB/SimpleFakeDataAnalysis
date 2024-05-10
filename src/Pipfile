@@ -16,7 +16,9 @@ lxml = "*"
 beautifulsoup4 = "*"
 requests = "*"
 pypdftk = "*"
-psycopg2 = "*"
+psycopg = {extras = ["binary", "pool"], version = "*"}
+amortization = "*"
+amortize = "*"
 
 [dev-packages]
 
